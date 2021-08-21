@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Khushali.
 - 👀 I’m interested in learning and explore new technologies.
--
-- 
--
+
+ 
+
 
 <!---
 Khushali1/Khushali1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
