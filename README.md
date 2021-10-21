@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Khushali.
-- 👀 I’m interested in learning and explore new technologies.
 
  
 
